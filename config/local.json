@@ -1,0 +1,9 @@
+{
+    "db": {
+        "port": 5432,
+        "user": "master",
+        "name": "node-with-docker",
+        "host": "host.docker.internal",
+        "password": null
+    }
+}
